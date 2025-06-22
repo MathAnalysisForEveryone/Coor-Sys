@@ -10,4 +10,6 @@ A database for Coor-Sys (To do list: English Translation)
 据我们所知, 这可能是目前第一个以 "坐标系" 为核心进行拟人化创作并开源发布的项目. 欢迎大家围绕坐标系展开创作、讨论与交流! 
 
 **"建个系吧，一切都会好起来的~"**
+
+PS: 学得越多, 懂得越少; 如有疏漏, 深感抱歉.
 ![Coor-Sys](./Coor-Sys_1.png)
